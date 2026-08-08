@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IQ world",
+  "description": "A clean, modern single-screen word deduction game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
