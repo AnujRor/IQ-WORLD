@@ -24,11 +24,3 @@ IQ World ek word deduction (unscramble) game hai. Isme player ko jumbled letters
 - Guess grid aur letter coloring `src/components/Grid.tsx` me hai (green = sahi jagah, amber = word me hai magar galat jagah, red = word me nahi).
 - Words aur puzzles ki list `src/words.ts` me hai. `getPuzzleForLevel()` level ke hisaab se word length chunta hai aur `getJumbledLetters()` letters ko shuffle karke extra letters jodta hai.
 
-## Chalane ka tarika
-
-```
-npm install
-npm run dev
-```
-
-Phir browser me `http://localhost:3000` kholain.
